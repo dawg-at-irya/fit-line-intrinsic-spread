@@ -1,4 +1,4 @@
-# Fitting a line to data with large intrinsic spread
+* Fitting a line to data with large intrinsic spread
 
 The script ODR_vs_OVAR.py illustrates the difference in fit quality between Orthogonal Distance Regression (ODR) and
     regression that includes a treatment of intrinsic variance orthogonal to the best-fit line (OVAR). The latter
